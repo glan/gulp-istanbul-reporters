@@ -1,0 +1,16 @@
+{
+  "name": "gulp-istanbul-reports",
+  "description": "Output multiple types of Istanbul coverage reports",
+  "version": "0.0.1",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "istanbul": "^0.4.5"
+  },
+  "author": "Glan Thomas <glanthomas@mac.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glan/gulp-istanbul-reports"
+  },
+  "main": "./main.js",
+  "license": "MIT"
+}
